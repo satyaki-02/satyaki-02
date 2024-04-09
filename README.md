@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **satyaki.mds2023@cmi.ac.in**
 
-- - ✔️ Check out my linkedin portfolio **<a href = 'https://www.linkedin.com/in/satyaki-mullick-profile/' target = 'blank'>Satyaki Mullick</a>**
+ - ✔️ Check out my linkedin portfolio **<a href = 'https://www.linkedin.com/in/satyaki-mullick-profile/' target = 'blank'>Satyaki Mullick</a>**
+
+ - ✔️ Check out my C.V. **<a href = 'https://drive.google.com/file/d/1kDZ7O54Iw7N_qhetIUEhYYpmUL62NU1m/view?usp=drive_link' target = 'blank'>C.V.</a>**
 
 ![](https://i.imgur.com/waxVImv.png)
 <details open>
@@ -24,6 +26,9 @@
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
         <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img src="https://img.shields.io/badge/R-206928?style=for-the-badge&logo=R&logoColor=white">
+        <img src="https://img.shields.io/badge/R-206928?style=for-the-badge&logo=R&logoColor=white">
+        <img src="https://img.shields.io/badge/R--shiny-037ffc?style=for-the-badge&logo=R-shiny&logoColor=white">
 <details close>
 
 <!--
