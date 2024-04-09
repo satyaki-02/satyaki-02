@@ -12,7 +12,7 @@
 
  - ✔️ Check out my linkedin portfolio **<a href = 'https://www.linkedin.com/in/satyaki-mullick-profile/' target = 'blank'>Satyaki Mullick</a>**
 
- - ✔️ Check out my C.V. **<a href = 'https://drive.google.com/file/d/1kDZ7O54Iw7N_qhetIUEhYYpmUL62NU1m/view?usp=drive_link' target = 'blank'>C.V.</a>**
+ - ✔️ Check out my  **<a href = 'https://drive.google.com/file/d/1kDZ7O54Iw7N_qhetIUEhYYpmUL62NU1m/view?usp=drive_link' target = 'blank'>C.V.</a>**
 
 ![](https://i.imgur.com/waxVImv.png)
 <details open>
