@@ -28,7 +28,7 @@
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
         <img src="https://img.shields.io/badge/R-206928?style=for-the-badge&logo=R&logoColor=white">
         <img src="https://img.shields.io/badge/R-206928?style=for-the-badge&logo=R&logoColor=white">
-        <img src="https://img.shields.io/badge/R--shiny-037ffc?style=for-the-badge&logo=R-shiny&logoColor=white">
+        <img src="https://img.shields.io/badge/R--shiny-037ffc?style=for-the-badge&logo=shiny&logoColor=white">
 <details close> 
 
 <!--
