@@ -15,7 +15,7 @@
  - ✔️ Check out my  **<a href = 'https://drive.google.com/file/d/1kDZ7O54Iw7N_qhetIUEhYYpmUL62NU1m/view?usp=drive_link' target = 'blank'>C.V.</a>**
 
 ![](https://i.imgur.com/waxVImv.png)
-<details open>
+
     <summary>🛠 <b> Tools I worked with:</b>:</summary>
     <br>
     <p align="left">
@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/R-206928?style=for-the-badge&logo=R&logoColor=white">
         <img src="https://img.shields.io/badge/R-206928?style=for-the-badge&logo=R&logoColor=white">
         <img src="https://img.shields.io/badge/R--shiny-037ffc?style=for-the-badge&logo=R-shiny&logoColor=white">
-<details close>
+
 
 <!--
 **satyaki-02/satyaki-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
