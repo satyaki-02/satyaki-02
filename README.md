@@ -7,14 +7,7 @@ I'm currently pursuing my MSc in Data Science from Chennai Mathematical Institut
       satyaki.mds2023@cmi.ac.in
 
 ## Tools I worked with:
-- **Python** <span style="color:white; background-color:blue; padding: 3px; border-radius: 5px;">Python</span>
-- **SQL** <span style="color:white; background-color:green; padding: 3px; border-radius: 5px;">SQL</span>
-- **TensorFlow** <span style="color:white; background-color:red; padding: 3px; border-radius: 5px;">TensorFlow</span>
-- **Tableau** <span style="color:white; background-color:orange; padding: 3px; border-radius: 5px;">Tableau</span>
-- **Git** <span style="color:white; background-color:purple; padding: 3px; border-radius: 5px;">Git</span>
-- **statsmodels** <span style="color:white; background-color:blue; padding: 3px; border-radius: 5px;">statsmodels</span>
-- **R** <span style="color:white; background-color:green; padding: 3px; border-radius: 5px;">R</span>
-- **ggplot** <span style="color:white; background-color:red; padding: 3px; border-radius: 5px;">ggplot</span>
+ <span style="color:white; background-color:blue; padding: 3px; border-radius: 5px;">Python</span>
 <!--
 **satyaki-02/satyaki-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
