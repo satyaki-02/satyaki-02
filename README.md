@@ -1,16 +1,18 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> I'm Soumyadip Ghorai</h1> 
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> I'm Satyaki Mullick</h1> 
 <!-- <h1 align="center">Hi folks!:wave: I'm Soumyadip Ghorai</h1> -->
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p> I'm currently pursuing my MSc in Data Science from Chennai Mathematical Institute, Chennai 🎓. I love to explore data using python and make informative dashboards. In my spare time, I do photography and play football. </p>
-
+------------------
 <p>
 
 - 🔭 I’m currently looking for internship oppertunities. 
 
 - 📫 How to reach me **satyaki.mds2023@cmi.ac.in**
 
+- - ✔️ Check out my linkedin portfolio **<a href = 'https://www.linkedin.com/in/satyaki-mullick-profile/' target = 'blank'>Satyaki Mullick</a>**
 
+![](https://i.imgur.com/waxVImv.png)
 <details open>
     <summary>🛠 <b> Tools I worked with:</b>:</summary>
     <br>
