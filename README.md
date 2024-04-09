@@ -2,8 +2,7 @@
 <!-- <h1 align="center">Hi folks!:wave: I'm Soumyadip Ghorai</h1> -->
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p> I'm currently pursuing my MSc in Data Science from Chennai Mathematical Institute, Chennai 🎓. I love to explore data using python and make informative dashboards. In my spare time, I do photography and play football. </p>
-------------------
+(https://camo.githubusercontent.com/5130b702d38feb4b067ca0cad51d6e4e0edcb2a2aa6290e0ae76ba8c40d64a3b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f756d796164697067686f726169266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 <p>
 
 - 🔭 I’m currently looking for internship oppertunities. 
