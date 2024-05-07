@@ -1,17 +1,18 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> I'm Satyaki Mullick</h1> 
-<!-- <h1 align="center">Hi folks!:wave: I'm Soumyadip Ghorai</h1> -->
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaki-02&label=Profile%20views&color=0e75b6&style=flat" alt="SatyakiMullick"/> </p>
 <p>
 
-- 🔭 I’m currently looking for internship oppertunities. 
+- 🔭 I have completed my Bachelors in Statistics from **<a href = 'https://www.caluniv.ac.in/' target = 'blank'>Calcutta University</a>**.
+
+- 🔭 I’m currently pursuing Masters in Data Science from **<a href = 'https://www.cmi.ac.in/' target = 'blank'>Chennai Mathematical Institute</a>**. 
 
 - 📫 How to reach me **satyaki.mds2023@cmi.ac.in**
 
- - ✔️ Check out my linkedin portfolio **<a href = 'https://www.linkedin.com/in/satyaki-mullick-profile/' target = 'blank'>Satyaki Mullick</a>**
+- ✔️ Check out my linkedin portfolio **<a href = 'https://www.linkedin.com/in/satyaki-mullick-profile/' target = 'blank'>Satyaki Mullick</a>**
 
- - ✔️ Check out my  **<a href = 'https://drive.google.com/file/d/1kDZ7O54Iw7N_qhetIUEhYYpmUL62NU1m/view?usp=drive_link' target = 'blank'>C.V.</a>**
+- ✔️ Check out my  **<a href = 'https://drive.google.com/file/d/1kDZ7O54Iw7N_qhetIUEhYYpmUL62NU1m/view?usp=drive_link' target = 'blank'>C.V.</a>**
 
 ![](https://i.imgur.com/waxVImv.png)
 
